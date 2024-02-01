@@ -4,17 +4,14 @@
     "HackYourFutureBelgium",
     "HackYourFuture",
     "Nepo",
-<<<<<<< HEAD
     "saidi",
-    "Photoshop"
-=======
+    "Photoshop",
     "Ashraf",
     "poless",
     "Poless",
     "alasaidi",
     "khantm",
     "adnanmalkic"
->>>>>>> a38ab2ea4e3db8cabf806c8e801c1da743faece1
   ],
   "ignorePaths": [
     "node_modules/**",
