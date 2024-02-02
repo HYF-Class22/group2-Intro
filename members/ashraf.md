@@ -1,5 +1,7 @@
 # ashraf poless
 
+![ashraf poless](img/ashraf.jpg)
+
 ## Hello every body 👋
 
 here is some information about **my group** 🤩 and **_me_**
