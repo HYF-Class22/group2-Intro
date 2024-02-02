@@ -2,8 +2,9 @@
 
 ## Junior Full-Stack Developer
 
-<img src="./photo/khant-profile.jpg" width="500">
-___
+[profile-photo](./photo/khant-profile.jpg)
+
+---
 
 ### About myself
 
