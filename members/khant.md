@@ -23,12 +23,12 @@ Reach out via [Email](maungkhantdelica@gmail.com)
 
 ---
 
-<img src="./photo/logos/download.png" width="50" height="50">
-<img src="./photo/logos/download (1).png" height="50" width="50">
-<img src="./photo/logos/download.jfif" width="50" height="50">
-<img src="./photo/logos/download (2).png" width="50" height="50">
-<img src="./photo/logos/download (3).png" width="50" height="50">
-<img src="./photo/logos/download (4).png" width="50" height="50">
-<img src="./photo/logos/download (1).jfif" width="50" height="50">
-<img src="./photo/logos/download (2).jfif" width="50" height="50">
-<img src="./photo/logos/download (6).png" width="50" height="50">
+- HTML
+- CSS
+- JS
+- Typescript
+- ReactJS
+- NodeJS
+- Python
+- MongoDB
+- PostgreSQL

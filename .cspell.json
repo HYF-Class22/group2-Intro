@@ -1,6 +1,5 @@
 {
   "language": "en",
-  "words": ["HackYourFutureBelgium", "Khant", "HackYourFuture", "Nepo"],
   "words": [
     "HackYourFutureBelgium",
     "HackYourFuture",
@@ -11,7 +10,10 @@
     "poless",
     "Poless",
     "alasaidi",
+    "khant",
     "khantm",
+    "Khant",
+    "Maung",
     "adnanmalkic"
   ],
   "ignorePaths": [
