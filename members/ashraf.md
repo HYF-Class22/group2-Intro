@@ -1,6 +1,6 @@
 # ashraf poless
 
-![ashraf poless](img/ashraf.jpg)
+![ashraf poless](./images/ashraf.jpg)
 
 ## Hello every body 👋
 

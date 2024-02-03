@@ -2,7 +2,7 @@
 
 ## Junior Full-Stack Developer
 
-![profile-photo](./photo/khant-profile.jpg)
+![profile-photo](./images/khant-profile.jpg)
 
 ---
 
